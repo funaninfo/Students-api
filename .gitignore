@@ -36,3 +36,5 @@ go.work
 # Storage File
 
 storage
+#Config folder
+/config
